@@ -1,0 +1,94 @@
+- York_Rose сказал: привет как дела
+-  York_Rose тихо сказал: привет как делишки
+- Trainee York_Rose: Всем доброго утра, хорошего всем дня!
+- * York_Rose встал с велосипеда
+- * Велосипед стоит (( York_Rose ))
+-  ! York_Rose коснулся асфальта ножкой когда вставал
+- York_Rose съел вареное яйцо.
+
+[09:44:54] {FFFFFF}SA-MP {B9C9BF}0.3.7 {FFFFFF}Started
+[09:44:54] [SAfk]{EAEAEA}: <{007777}OnFoot Anti-Afk{EAEAEA}> sucessfully loaded! Author: {007777}#San0
+[09:44:54] [Reconnect_v5.1 {CC0000}by AIR{33FF33}]: {FFFFFF}Установлено пересоздание сессии.
+[09:44:54] [Reconnect_v5.1 {CC0000}by AIR{33FF33}]: {FFFFFF}Установлено пересоздание порта подключения.
+[09:44:54] [Reconnect_v5.1 {CC0000}by AIR{33FF33}]: {FFFFFF}Загружено! Команды: /rec(on) | /au_rec(on) | /fconnect | /pconnect | /sconnect
+[09:44:54] Cleo Gravity by sirop83.
+[09:44:54] /gravhelp - список доступных команд.
+[09:44:54] Connecting to 185.169.134.84:7777...
+[09:44:54] скриптик
+[09:44:55] Connected. Joining the game...
+[09:44:58]  
+[09:44:59] Connected to {B9C9BF}|       Trinity Roleplay  №1      |
+[09:44:59] {F5DEB3}Добро пожаловать, York_Rose. Надеемся, что вы хорошо проведете время у нас.
+[09:45:14] {ffffff}С возвращением, вы успешно вошли в свой аккаунт.
+[09:45:14] MOTD:{ffffff} Автоадмод под запретом. Тест ПМР и поощрения на форуме. vk: @wlowlow.
+[09:45:14] Ваше описание: {ffffff}Мужчина на вид 26 лет.
+[09:45:14] У вас {D8A903}8{ffffff} новых ежедневных заданий! Используйте {34C924}/task{ffffff} для их просмотра.
+[09:45:23] Транспорт, в котором вы живете, не заспавнен. Вы телепортированы на стоянку, где он стоит.
+[09:45:36] Вам ужасно хочется пить. Сильная жажда может привести к смерти.
+[09:45:52] York_Rose сказал: привет как дела
+[09:45:56] York_Rose тихо сказал: привет как делишки
+[09:45:56] York_Rose тихо сказала: привет как делишки
+[09:46:08] York_Rose сказала: привет как делишечки
+[09:46:19] (( York_Rose: ооц чат ))
+[09:46:24] Члены вашей фракции онлайн, всего {D8A903}8{ffffff} человек:
+[09:46:24] Ник:{abcdef} Martin_Map - 22 {ffffff}Ранг:{fbec5d} 3 - Journalist
+[09:46:24] Ник:{abcdef} York_Rose - 55 {ffffff}Ранг:{fbec5d} 1 - Trainee
+[09:46:24] Ник:{abcdef} Risanori_Katso - 63 {ffffff}Ранг:{fbec5d} 2 - Moderator
+[09:46:24] Ник:{abcdef} Soso_Newell - 75 {ffffff}Ранг:{fbec5d} 3 - Journalist
+[09:46:24] [!] Ник:{abcdef} Seth_Macfarlane - 85 {ffffff}Ранг:{fbec5d} 7 - General Director
+[09:46:24] Ник:{abcdef} Sergey_Winnikov - 90 {ffffff}Ранг:{fbec5d} 2 - Moderator {D8A903}< D >
+[09:46:24] [!] Ник:{abcdef} Reih_Machetti - 105 {ffffff}Ранг:{fbec5d} 5 - Supervisor
+[09:46:24] Ник:{abcdef} Tess_Raven - 122 {ffffff}Ранг:{fbec5d} 1 - Trainee
+[09:46:36] [Гос. реклама]{ffffff} Сотрудники таксопарка доставят вас куда угодно. Для вызова используйте {33aa33}/call taxi{ffffff}.
+[09:46:42] Trainee York_Rose: Всем доброго утра, хорошего всем дня!
+[09:46:54] Journalist Martin_Map: (( qq ))
+[09:47:08] Вы не состоите в объединении.
+[09:47:09] Вы не состоите в объединении.
+[09:47:14] Подсказка: /w [ID или часть ника] [Текст сообщения]
+[09:47:16] Подсказка: /w [ID или часть ника] [Текст сообщения]
+[09:47:21] Подсказка: /w [ID или часть ника] [Текст сообщения]
+[09:48:02] * York_Rose встал с велосипеда
+[09:48:07] * Велосипед стоит (( York_Rose ))
+[09:48:14] ! York_Rose коснулся асфальта ножкой когда вставал
+[09:48:44] [Реклама US]{ffffff} Fox Taxi Corporation. Проводит собеседование. Аванс 15.000$. Наш навигатор - gps q 120.
+[09:48:44] [Реклама US] Отправил {ffffff}Rados_Fleren{EEA9B8} Тел. {ffffff}77-216716{EEA9B8} Проверила {ffffff}Mia_Ueno
+[09:48:53] York_Rose съел вареное яйцо.
+[09:49:14] [Реклама US]{ffffff} Продам разбитое пасхальное яйцо «Stripes». 777 $. Звоните.
+[09:49:14] [Реклама US] Отправил {ffffff}York_Rose{EEA9B8} Тел. {ffffff}77-172312
+[09:49:31] На модерацию поступило новое объявление. Всего на модерации находится {ffffff}3{EEA9B8} объявления.
+[09:50:19] Ваш ранг не позволяет вам модерировать объявления.
+
+
+
+      <!-- <select
+        v-if="chatData.content"
+        multiple
+        id=""
+        name=""
+        class="chat-select"
+      >
+        <option
+          v-for="(line, i) in chatData.content"
+          :key="i"
+          :value="line"
+        >
+          {{ line }}
+        </option>
+      </select> -->
+
+      // switch (true) {
+      //   case this.regex.ic.test(line):
+      //     break;
+      //   case this.regex.low_ic.test(line):
+      //     break;
+      //   case this.regex.work_ic.test(line):
+      //     break;
+      //   case this.regex.me.test(line):
+      //     break;
+      //   case this.regex.do.test(line):
+      //     break;
+      //   case this.regex.ame.test(line):
+      //     break;
+      //   default:
+      //     break;
+      // }
