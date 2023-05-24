@@ -139,11 +139,14 @@ export default defineComponent({
 
       ctx.clearRect(0, 0, width, height); // очищаем полотно перед всеми изменениями от предыдущих
       ctx.drawImage(this.background, 0, 0); // заливаем первостепенно фон
-      ctx.font = "18px Verdana";
+      ctx.font = "16px Arial";
       ctx.fillStyle = "white"
+      ctx.lineWidth = 3;
+      ctx.strokeStyle = 'black';
 
       lines.forEach((line, i) => {
         const rp_line = line.replace(timestamp, '');
+        ctx.strokeText(rp_line, 20, i * 20 + 50);
         ctx.fillText(rp_line, 20, i * 20 + 50);
       })
 
