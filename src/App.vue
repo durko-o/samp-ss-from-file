@@ -137,8 +137,8 @@ export default defineComponent({
       const { width, height } = this.$refs.canvas;
       const ctx = this.$refs.canvas.getContext("2d");
 
-      ctx.clearRect(0, 0, width, height); // очищаем полотно перед всеми изменениями от предыдущих
-      ctx.drawImage(this.background, 0, 0); // заливаем первостепенно фон
+      ctx.clearRect(0, 0, width, height);
+      ctx.drawImage(this.background, 0, 0);
       ctx.font = "16px Arial";
       ctx.fillStyle = "white"
       ctx.lineWidth = 3;
